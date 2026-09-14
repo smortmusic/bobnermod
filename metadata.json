@@ -1,0 +1,9 @@
+{
+    "id": "bobnermod",
+    "name": "BobnerMod",
+    "author": ["bobner"],
+    "description": "A shitpost mod I made because I was bored (Art: TopHatArts)",
+    "prefix": "bobner",
+    "main_file": "main.lua",
+    "version": "0.0.1"
+}
